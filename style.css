@@ -203,8 +203,8 @@ footer .md-trigger:hover {
 #hero a.job-link:hover {
 	border-color: #ef3e38;
 }
-::selection {color:#FFF;background:#221e5a;}
-::-moz-selection {color:#FFF;background:#221e5a;}
+::selection {color:#FFF;background:#e7b045;}
+::-moz-selection {color:#FFF;background:#e7b045;}
 /* code for animated blinking cursor */
 #typed-cursor{
 	opacity: 0;
