@@ -86,7 +86,7 @@ body {
 }
 .iphone {
 	height: 80%;
-	background: url(http://www.jmortell.com/img/iphone.svg);
+	background: url(img/iphone.svg);
 	background-size: cover;
 	background-position: center center;
 	margin: 0 auto;
